@@ -1,0 +1,6 @@
+Self-Organizing Map Formation
+Foundations of Neural Computation
+Edited by Klaus Obermayer and Terrence J. Sejnowski
+
+Self-Organizing Maps
+Authors: Kohonen, Teuvo
