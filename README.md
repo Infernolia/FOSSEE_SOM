@@ -5,3 +5,7 @@ Statistical analysis of the spatio-temporal trends in COVID-19 strains and infec
 
 
 Author: Aboli Marathe
+
+[![Strains Animation](som_map_animation.gif)]
+
+<
