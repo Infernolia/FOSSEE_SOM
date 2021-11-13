@@ -1,0 +1,75 @@
+---
+title: ''
+output:
+  html_document: default
+  word_document: default
+bibliography: references.bib
+csl: acm-sig-proceedings-long-author-list.csl
+nocite: |
+  @a1,@a2,@a4,@a5,@a6,@a7,@a8,@qq1,@qq2,@r1
+---
+
+```{css, echo=FALSE}
+.center {
+   text-align: center;
+}
+```
+---
+<div class="center">
+  <h1>Self Organizing Maps in R</h1>
+  <h7>R Team,</h7>
+  <br>
+  <h7>FOSSEE, IIT Bombay</h7><br>
+  <h7>October, 2021</h7>
+</div>
+
+---
+
+<div align="justify"> 
+
+#### Welcome to the Guided Tutorial on Self Organizing Maps using R, created by the R Team, FOSSEE, IIT Bombay.
+
+The purpose of this tutorial is to introduce students, professionals, and researchers to the topic of Self Organizing Map (SOM), a type of artificial neural network used for dimensionality reduction. This tutorial requires the learner to have some basic understanding of R and high school mathematics. To understand R programming basics, the learner may refer to the spoken tutorial on R [here](https://spoken-tutorial.org/tutorial-search/?search_foss=R&search_language=English). This tutorial contains three modules, which will incrementally teach the subject. The learner may utilize the modules in any order, depending on his/her interest and pace.
+
+<BR>
+
+#### Modules
+
+
+- [Module 1: Introduction to Self Organizing Maps](module1.html)
+- [Module 2: Solved Example of Self Organizing Maps: Iris Dataset](module2.html)
+- [Module 3: Application of SOMs in Real Life: Modelling the COVID-19 Pandemic in India](module3.html)
+
+
+<BR>
+
+#### About this tutorial
+
+This tutorial series was created entirely from scratch using the R programming language. From the introduction to the application, each of its modules was designed uniquely by the contributors. The key feature of the tutorial is the construction of the SOM model from scratch. It encourages learning by doing as all codes are available in the tutorial itself. The chapters present in each module highlight individual steps used for the model training to better explain the underlying algorithm. To create this series, the authors referred to various SOM implementations from academic journals [2-8], public libraries [9,10] and NPTEL courses [1].
+If the learner wishes to contribute to this open-source work or provide any improvement suggestions, he/she can reach out to us at contact-r(at)fossee(dot)in.
+
+
+
+<BR>
+
+#### Acknowledgement
+
+The following individuals contributed to the creation of this Guided Tutorial.
+
+Mr. Tanmay Srinath <BR>
+Ms. Aboli Marathe<BR>
+Mr. Siddhant Raghuvanshi<BR>
+Mr. Digvijay Singh<BR>
+Prof. Smita Wangikar<BR>
+Prof. Radhendushka Srivastava<BR>
+
+<BR>
+  
+#### References
+
+
+  
+
+
+
+</div>
